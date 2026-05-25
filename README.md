@@ -1,4 +1,4 @@
-<img width="2522" height="53" alt="image" src="https://github.com/user-attachments/assets/4e56c53b-1dd0-42b9-8e38-8d3ab4e067ce" /><img width="903" height="155" alt="image" src="https://github.com/user-attachments/assets/4f963e6a-f21d-42a0-9684-40497a659d43" /># smart-resume-analyzer
+# smart-resume-analyzer
 Smart Resume Analyzer is an AI-powered web application built using Python and Streamlit that analyzes resumes against job descriptions. It calculates ATS score, identifies matching and missing skills, provides domain-based skill recommendations, and ranks resumes with grades and stars. Designed to help job seekers improve resume quality .
 
 <img width="1855" height="826" alt="Screenshot 2026-05-25 220858" src="https://github.com/user-attachments/assets/5fe374c8-71e9-4097-8458-6fc5bdc2c3df" />
