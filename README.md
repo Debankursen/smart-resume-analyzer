@@ -8,10 +8,8 @@ Smart Resume Analyzer is an AI-powered web application built using Python and St
 Recruiters receive thousands of resumes for job openings, making manual screening time-consuming and inefficient. Many qualified candidates get rejected due to low ATS compatibility. There is a need for an automated system that evaluates resumes, detects skill gaps, and ranks candidates accurately .
 
 # Proposed Solution
-The proposed system aims to address the challenge of manual resume screening by automating the analysis process using Artificial Intelligence.  It predicts resume suitability  for a  job role by comparing resumes with job descriptions and identifying skill gaps. The solution consists of the following components:
-
-# Data Collection:
-Gather resume data in PDF/DOCX format uploaded by users.                                                                                                             
-Collect job description text provided by recruiters or job portals.
-Maintain a predefined skill keywords database for analysis.
+The proposed system aims to address the challenge of manual resume screening by automating the analysis process using Artificial Intelligence.  It predicts resume suitability  for a  job role by comparing resumes with job descriptions and identifying skill gaps. The solution consists of the following components:                                                                                                                                                                                    
+Data Collection:
+Gather resume data in PDF/DOCX format uploaded by users.                                                                                                            Collect job description text provided by recruiters or job portals.
+Maintain a predefined skill keywords database for analysis.                                                                                                          
 
