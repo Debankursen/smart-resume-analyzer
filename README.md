@@ -10,5 +10,6 @@ Recruiters receive thousands of resumes for job openings, making manual screenin
 # Proposed Solution
 The proposed system aims to address the challenge of manual resume screening by automating the analysis process using Artificial Intelligence.  It predicts resume suitability  for a  job role by comparing resumes with job descriptions and identifying skill gaps. The solution consists of the following components:                                                                                                                                                                                    
 Data Collection:                                                                                                                                                       
-Gather resume data in PDF/DOCX format uploaded by users.                                                                                                       Collect job description text provided by recruiters or job portals.                                                                                                Maintain a predefined skill keywords database for analysis.                                                                                                          
-
+Gather resume data in PDF/DOCX format uploaded by users.                                                                                                                                                                                                                 
+Collect job description text provided by recruiters or job portals.                                                                                                     
+Maintain a predefined skill keywords database for analysis.  
