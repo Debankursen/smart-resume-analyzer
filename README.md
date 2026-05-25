@@ -24,10 +24,10 @@ The proposed system aims to address the challenge of manual resume screening by 
 * Result:
  The system successfully analyzes resumes, detects skills, identifies missing competencies, calculates ATS score, ranks resumes, and provides skill improvement     recommendations through an interactive web interface.
 # System  Approach:
-* PythonUsed as the core programming language to build the resume analysis logic and backend processing.
-* Natural Language Processing (NLP)Used to process and analyze resume text to identify relevant skills and keywords.
-* Machine LearningApplied cosine similarity algorithm to calculate ATS score by matching resume with job description.
-* Streamlit Web FrameworkUsed to create an interactive and user-friendly web application interface.
-* Plotly VisualizationUsed to display ATS score using a dynamic and visual gauge meter chart.
-* GitHub DeploymentUsed to host and manage the project source code repository.
-* Streamlit Cloud HostingUsed to deploy and run the application online for public access.
+* Python: Used as the core programming language to build the resume analysis logic and backend processing.
+* Natural Language Processing (NLP):Used to process and analyze resume text to identify relevant skills and keywords.
+* Machine Learning: Applied cosine similarity algorithm to calculate ATS score by matching resume with job description.
+* Streamlit Web Framework: Used to create an interactive and user-friendly web application interface.
+* Plotly Visualization: Used to display ATS score using a dynamic and visual gauge meter chart.
+* GitHub Deployment: Used to host and manage the project source code repository.
+* Streamlit Cloud Hosting: Used to deploy and run the application online for public access.
