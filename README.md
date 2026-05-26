@@ -75,3 +75,5 @@ workload and increases hiring efficiency using AI-based analysis.
 GitHub Link: https://github.com/Debankursen/smart-resume-analyzer
 
 Dataset Link : https://www.kaggle.com/datasets/ravindrasinghrana/job￾description-dataset
+
+# Thank You
