@@ -42,3 +42,36 @@ The proposed system aims to address the challenge of manual resume screening by 
 • Text vectorization using CountVectorizer • Similarity calculation
 * Deployment
 • Deployed using Streamlit Cloud integrated with GitHub repository
+
+# CONCLUSION:
+The Smart Resume Analyzer automates resume screening, improves ATS 
+compatibility, and helps candidates enhance their resumes. It reduces recruiter 
+workload and increases hiring efficiency using AI-based analysis.
+
+# FUTURE SCOPE:
+• Multi-resume ranking system
+
+• Interview question prediction
+
+• Resume improvement tips
+
+• LinkedIn profile analysis
+
+• AI resume rewriting
+
+• Integration with job portals
+
+# REFERENCES:
+1. Streamlit Documentation
+
+2. Scikit-learn Machine Learning Library
+
+3. PyPDF2 Python Library
+
+4. Plotly Visualization Library
+
+5. Kaggle Job Description Dataset
+
+GitHub Link: https://github.com/Debankursen/smart-resume-analyzer
+
+Dataset Link : https://www.kaggle.com/datasets/ravindrasinghrana/job￾description-dataset
