@@ -31,3 +31,14 @@ The proposed system aims to address the challenge of manual resume screening by 
 * Plotly Visualization: Used to display ATS score using a dynamic and visual gauge meter chart.
 * GitHub Deployment: Used to host and manage the project source code repository.
 * Streamlit Cloud Hosting: Used to deploy and run the application online for public access.
+
+# ALGORITHM & DEPLOYMENT: 
+* Algorithm Selection
+• Cosine Similarity is used to calculate ATS score by comparing resume text with job description.
+* Data Input
+• Resume text • Job description
+• Skill keywords database
+* Training / Processing
+• Text vectorization using CountVectorizer • Similarity calculation
+* Deployment
+• Deployed using Streamlit Cloud integrated with GitHub repository
